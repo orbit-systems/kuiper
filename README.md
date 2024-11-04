@@ -22,6 +22,8 @@ Provides useful type names used across all OS projects.
 ## orbit_util.h
 Provides debugging, compiler agnostic function attribute and iteration utilities.
 
+# Other useful utilities
+
 ## alloc.c/alloc.h
 Provides allocation wrappers for mars.
 
